@@ -11,6 +11,11 @@ int main()
     scanf("%d",&n);
     for (int i=0;i<n;i++)
         scanf("%s",substr[i]);
-    
+    int index = 0;
+    int length = strlen(number);
+    while (index < length){
+        // find concat of string
+        
+    }
     return 0;
 }
