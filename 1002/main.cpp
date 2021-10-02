@@ -15,7 +15,7 @@ int main()
     int length = strlen(number);
     while (index < length){
         // find concat of string
-        
+        // none
     }
     return 0;
 }
